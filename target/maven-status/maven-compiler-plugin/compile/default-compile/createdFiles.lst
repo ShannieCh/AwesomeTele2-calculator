@@ -1,0 +1,7 @@
+Calculator\Calculation.class
+Calculator\CalculationRepository.class
+Calculator\CalculatorService.class
+Calculator\Operation.class
+Calculator\CalculatorApplication.class
+Calculator\CalculatorController.class
+Calculator\CalculatorService$1.class
